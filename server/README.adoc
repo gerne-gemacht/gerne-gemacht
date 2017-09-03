@@ -1,0 +1,5 @@
+= Gerne-Gemacht Server
+
+Hier befindet sich der Server von link:..[Gerne-Gemacht].
+Der Server ist mit http://php.net/[PHP] implementiert (siehe link:php[PHP-Quelltext]).
+Die Datenhaltung erfolgt mit einem RDBMS wie https://www.postgresql.org/[PostgreSQL] oder https://www.mysql.com/[MySQL] (siehe link:sql[SQL-Quelltext]).

@@ -1,0 +1,5 @@
+= Gerne-Gemacht
+
+Hier befindet sich die Software der Gerne-Gemacht Platform, um Geschenke anzubieten, zu suchen und zu empfangen.
+Weitere Details sind im link:../../wiki[Wiki] zu finden.
+Das System basiert auf einer REST-Architektur und ist in link:client[] und link:server[] unterteilt.
